@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2023-04-28T16:00:55.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ag86RSmW26EJKZP06ynd" version="21.2.2" type="github">
+  <diagram name="Page-1" id="P-zovqll_U_1tqYQrpsp">
+    <mxGraphModel dx="1306" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69GHlI6afJDCmQzSMZdf-1" value="Smartsheet" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="580" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="69GHlI6afJDCmQzSMZdf-1" source="69GHlI6afJDCmQzSMZdf-2" target="69GHlI6afJDCmQzSMZdf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-16" value="Smartsheet Control Center" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Tahoma;" vertex="1" connectable="0" parent="69GHlI6afJDCmQzSMZdf-15">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-2" value="Design Intake Sheet (VBG)" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="69GHlI6afJDCmQzSMZdf-1">
+          <mxGeometry x="30" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="69GHlI6afJDCmQzSMZdf-1" source="69GHlI6afJDCmQzSMZdf-14" target="69GHlI6afJDCmQzSMZdf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-14" value="Provisioned Projects Links&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="69GHlI6afJDCmQzSMZdf-1">
+          <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-17" value="&lt;p style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;Resource Tracker Sheet&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;&lt;font style=&quot;&quot;&gt;- Designer assignment,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;- % allocation,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;- Start and end date provided through collaboration between CX Ops &amp;amp; Design team&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span id=&quot;docs-internal-guid-8f44288f-7fff-e5b7-a160-a4c3d3206bd8&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;spacingLeft=6;fontFamily=Tahoma;" vertex="1" parent="69GHlI6afJDCmQzSMZdf-1">
+          <mxGeometry x="229" y="20" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-28" value="CX Resources Allocation (2023)" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="69GHlI6afJDCmQzSMZdf-1">
+          <mxGeometry x="430" y="65" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-6" value="Resource Manager" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="580" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-8" value="Resource Assignment Reports" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="69GHlI6afJDCmQzSMZdf-6">
+          <mxGeometry x="240" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="69GHlI6afJDCmQzSMZdf-6" source="69GHlI6afJDCmQzSMZdf-10" target="69GHlI6afJDCmQzSMZdf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Tahoma;" vertex="1" connectable="0" parent="69GHlI6afJDCmQzSMZdf-9">
+          <mxGeometry x="0.05" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-10" value="Underlying Source Data" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="69GHlI6afJDCmQzSMZdf-6">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="69GHlI6afJDCmQzSMZdf-17" target="69GHlI6afJDCmQzSMZdf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-20" value="Smartsheet Control Center + Bridge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Tahoma;" vertex="1" connectable="0" parent="69GHlI6afJDCmQzSMZdf-19">
+          <mxGeometry x="0.1793" relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="69GHlI6afJDCmQzSMZdf-8" target="69GHlI6afJDCmQzSMZdf-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-24" value="Bridge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Tahoma;" vertex="1" connectable="0" parent="69GHlI6afJDCmQzSMZdf-23">
+          <mxGeometry x="0.1433" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="69GHlI6afJDCmQzSMZdf-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.dashboard;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="115.85" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="69GHlI6afJDCmQzSMZdf-34" target="69GHlI6afJDCmQzSMZdf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-36" value="Profile Data Sync (Datamesh)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Tahoma;" vertex="1" connectable="0" parent="69GHlI6afJDCmQzSMZdf-35">
+          <mxGeometry x="-0.232" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-34" value="CX Resource Portfolio Analysis" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69GHlI6afJDCmQzSMZdf-39" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-0311e271-7fff-1e6d-aae1-2aed2d510bf6&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Verizon NHG TX&amp;quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;CX Design &lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Verizon NHG TX&amp;quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Verizon NHG TX&amp;quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Capacity Dashboard&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661.46" y="315" width="152.92" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
